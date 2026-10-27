@@ -84,3 +84,7 @@ from fancy_calculator import Calculator
 calc = Calculator()
 print(calc.evaluate("2 + 3 * (4 - 1)"))   # 11.0
 ```
+
+## License
+
+[MIT](LICENSE)
